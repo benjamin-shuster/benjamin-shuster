@@ -1,6 +1,7 @@
 ### Hey, I'm Benjamin Shuster
 
-- I prefer high level, dynamically typed, turing complete, functional programming languages. I also have a slight preference towards JIT compilers.
+- I prefer high level, ~~dynamically typed~~, turing complete, functional programming languages. I also have a slight preference towards JIT compilers.
+  - Never mind ... I understand and respect the need for static typing now
 - Some of my favorite videos are [Java for the Haters](https://www.youtube.com/watch?v=m4-HM_sCvtQ), [PowerPoint Programming](https://youtu.be/_3loq22TxSc), [The Worst programming language ever](https://www.youtube.com/watch?v=vcFBwt1nu2U), [Wat](https://www.destroyallsoftware.com/talks/wat),and definitely [Why javascript sucks](https://www.youtube.com/watch?v=xE8tL8NdHaY)
 - I'm an avid fan of the [Fira code](https://github.com/tonsky/FiraCode) font with ligatures
 - [my favorite line(s) of code](https://stackoverflow.com/questions/60113342/why-do-class-function-constructors-in-js-evaluate-strings-as-expressions): 
